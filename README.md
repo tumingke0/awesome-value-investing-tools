@@ -40,6 +40,7 @@ Tools that let you practice judgment, not just calculation.
 - [Wisesheets Free](https://wisesheets.io/) - Pull financial data into Google Sheets with formulas. Free tier available.
 - [Stockanalysis.com](https://stockanalysis.com/) - Clean financial statements, ratios, and segment data. Free for most tickers.
 - [Tikr.com (Free)](https://tikr.com/) - 10 years of financial history for international stocks. Free with sign-up.
+- [DisconfirmAI Free Tools](https://disconfirmai.com/en/tools) - 23 free research outlines and dashboards for testing a thesis before trusting it. Includes a Value Trap Review research framework for stocks that look cheap, a Quality Gate checklist and a classic DCF outline. The research app also gives 100 free credits a day.
 - [Grassroots Research Checklist](https://ordinarymantrying.com/tools/grassroots-research-checklist.html) - Field-research questions to ask before buying a consumer-facing business. Channel checks, supplier calls, competitor pricing.
 
 ## Learning Resources
